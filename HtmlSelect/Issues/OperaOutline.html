@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        div:focus {
+            color: blue;
+            outline: none;
+        }
+        div:active {
+            color: red;
+            outline: none;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Opera TAB outline issue.</h1>
+    <p>
+        Using Opera browser:<br />
+        - click the first input box;<br />
+        - press TAB key<br />
+        An outline will be shown around the div element with <code>tabindex="0"</code> attribute.<br />
+        <br />
+        It seems not possible to remove the outline using simple methods like CSS or something similar.<br />
+    </p>
+    <p>
+        <input type="text" />
+    </p>
+    <p>
+        <div tabindex="0">the div</div>
+    </p>
+    <p>
+        <input type="text" />
+    </p>
+</body>
+</html>
