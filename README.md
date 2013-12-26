@@ -44,6 +44,18 @@ If you want to keep some `<select>` tag "as is", then add "myselect-skip" class 
 If you want to see both the native widget and the customized one for some `<select>` tag, then add
 "myselect-debug" class to the tag (e.g. `<select class="myselect-debug">`).
 
+Source code:
+------------
+
+The widget source consists of 3 files:
+* <code>HtmlSelect/widgets/myselect/[myselect.html][html]</code> - the widget HTML code
+* <code>HtmlSelect/widgets/myselect/[myselect.css][css]</code> - the widget CSS code
+* <code>HtmlSelect/widgets/myselect/[myselect.js][js]</code> - the widget JavaScript code
+
+[html]: https://github.com/szyryanov/HtmlSelect/blob/master/HtmlSelect/widgets/myselect/myselect.html
+[css]: https://github.com/szyryanov/HtmlSelect/blob/master/HtmlSelect/widgets/myselect/myselect.css
+[js]: https://github.com/szyryanov/HtmlSelect/blob/master/HtmlSelect/widgets/myselect/myselect.js
+
 Limitations:
 ------------
 
