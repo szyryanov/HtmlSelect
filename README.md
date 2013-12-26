@@ -11,7 +11,11 @@ It hides all the `<select>` tags on the page, replacing them by itself.
 Live demo:
 ----------
 
-    coming soon
+<iframe src="http://szyryanov.github.io/Portfolio/HtmlSelect/live-demo.html" width="150" height="100" align="left">
+    Your browser does not supports frames.
+</iframe>
+
+[Click here](http://szyryanov.github.io/Portfolio/HtmlSelect/live-demo.html "widget live demo page")
 
 Features:
 ---------
