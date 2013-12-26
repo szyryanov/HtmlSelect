@@ -21,6 +21,13 @@ Features:
 * customizable widget structure (you can edit the myselect.html file)
 * customizable widget appearance (you can edit the myselect.css file)
 
+Dependencies:
+-------------
+
+The widget requires [jQuery][jquery] library.
+
+[jquery]: http://jquery.com
+
 How to use:
 -----------
 
