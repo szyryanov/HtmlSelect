@@ -123,11 +123,16 @@
                 return; // Chrome, Firefox, Safary: adjust() call when the DOM is not good yet
             }
             //
+            var popup_width = $part_popup.width();
             var popup_outerWidth = $part_popup.outerWidth();
+            //
             var main_delta = main_outerWidth - main_width;
+            var popup_delta = popup_outerWidth - popup_width;
             //
             if ((main_width + main_delta) < popup_outerWidth) {
                 $part_main.width(popup_outerWidth - main_delta);
+            } else {
+                $part_popup.width(main_outerWidth - popup_delta);
             }
         }
 
