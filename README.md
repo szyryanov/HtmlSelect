@@ -1,17 +1,13 @@
-myselect - custom html `<select>` widget.
-=========================================
+Сustom html `<select>` widget.
+==============================
 
 This widget replaces the browser's native `<select>` tag widget.
 
-How it works:
--------------
+![The widget image](http://szyryanov.github.io/Portfolio/HtmlSelect/images/Compare2.gif "The widget image")
 
 It hides all the `<select>` tags on the page, replacing them by itself.
 
-Live demo:
-----------
-
-[Click here](http://szyryanov.github.io/Portfolio/HtmlSelect/live-demo.html "widget live demo page") to view the demo page.
+**[Click here](http://szyryanov.github.io/Portfolio/HtmlSelect/test.html "widget test page") to see it in action.**
 
 Features:
 ---------
