@@ -29,10 +29,12 @@ Features:
 How to use:
 -----------
 
-1. Download the widget (myselect.html, myselect.css, myselect.js)
-2. Place into an appropriate subdirectory on your site, e.g. "/widgets/myselect"
+1. Download the [widget package][distro]
+2. Extract into an appropriate subdirectory on your site, e.g. "/widgets/myselect"
 3. Add the jQuery library reference on your page, if not added yet
 4. Add the widget script reference on your page
+
+[distro]: http://szyryanov.github.io/Portfolio/HtmlSelect/files/myselect.zip "widget package"
 
 For example:
 
