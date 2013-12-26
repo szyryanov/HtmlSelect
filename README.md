@@ -17,7 +17,6 @@ Features:
 * mouse interaction
 * keyboard interaction
 * unobtrustive
-* graceful degradation
 * the selected valie is two-binded to the original `<select>` tag
 * customizable widget structure (you can edit the myselect.html file)
 * customizable widget appearance (you can edit the myselect.css file)
@@ -55,16 +54,6 @@ So, the widget is ready to use, but with the following limitations:
 * "multiple" (listbox-like) mode is not supported;
 * `<optgroup>` feature is not supported;
 * The original `<select>` tag positioning is not applied to the widget. You can wrap the `<select>` into `<span>` and apply the positioning to the `<span>` tag. 
-
-How it looks in major browsers:
--------------------------------
-
-coming soon
-
-Graceful degradation:
----------------------
-
-coming soon
 
 License:
 --------
