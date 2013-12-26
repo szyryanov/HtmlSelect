@@ -7,7 +7,10 @@ This widget replaces the browser's native `<select>` tag widget.
 
 It hides all the `<select>` tags on the page, replacing them by itself.
 
-**[Click here](http://szyryanov.github.io/Portfolio/HtmlSelect/test.html "widget test page") to see it in action.**
+Demo:
+-----
+
+[Click here](http://szyryanov.github.io/Portfolio/HtmlSelect/test.html "widget test page") to see it in action.
 
 Features:
 ---------
